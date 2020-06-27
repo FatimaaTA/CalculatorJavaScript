@@ -56,3 +56,35 @@ width:45%;
     color: #ffffff !important;
     box-shadow: 2px 8px 14px 2px #EDECF8, 0 6px 20px 0 #463FA5;
 }
+
+@media (min-width:0px) and (max-width: 990px) {
+    .mar{
+        width: 100%;
+
+    }
+}
+
+@media (min-width:991px) and (max-width: 1200px) {
+    .mar{
+        width: 70%;
+
+    }
+}
+
+@media (min-width:0px) and (max-width: 770px) {
+    button{
+   
+        
+        padding: 0.5em;
+    
+    }
+}
+
+@media (min-width:750px) and (max-width: 1200px) {
+    button{
+   
+        
+        padding: 1.2em;
+    
+    }
+}
